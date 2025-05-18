@@ -1,4 +1,4 @@
-# Workbook Model
+# Workbook Model1
 
 The workbook and its components define a simple JavaScript Object model which can be accessed and manipulated if desired.
 
